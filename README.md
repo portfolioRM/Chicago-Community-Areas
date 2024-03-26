@@ -14,9 +14,9 @@ Additionally, it seems everywhere you look in Chicago there is a construction cr
 - Evaluating the Random Forest Model to Assess the Quality of the Variable Importance Results<br><br>
 
 ## Files Uploaded:
-1.	*"RashmiMariyappa_Chicago_Video"*<br>
+1.	*"RashmiMariyappa_1_Chicago_Video"*<br>
 This is a video presentation providing an overview of the project, analysis, and conclusions. It is embedded in the ReadMe above.<br><br>
-2.	*"RashmiMariyappa_Chicago_Report"*<br>
+2.	*"RashmiMariyappa_2_Chicago_Report"*<br>
 This file is a report providing an overview of the project, analysis, and conclusions.<br><br>
 3.	*"RashmiMariyappa_Chicago_Code"*<br>
 The R code used for the project<br><br>
